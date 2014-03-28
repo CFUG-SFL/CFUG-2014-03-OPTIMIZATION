@@ -1,0 +1,20 @@
+# Ignore List #
+######################
+_mmServerScripts/
+_notes/
+.project
+.classpath
+.settings
+settings.xml
+.rdsTempFiles
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+node_modules/
+
+
+# do not ignore these #
+#######################
+!readme.md
+!empty
